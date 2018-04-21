@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 when i initialize a new repo, was createad empty repo, and i can start to staff with files my repo!
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging it is a prepareing zone for future commits, and i can check once more my files before the final commiting.
