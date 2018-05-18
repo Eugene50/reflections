@@ -1,0 +1,42 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+  The old and new lines of code where was a difference i saw near each other, it was very quick to juxtapose
+
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    i think it is fantastic, when i was back to the initial file  and start develop new way, besides i can to compare files and trace the thought
+of developers? to understanding what they mean
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+The most good thing for the automatically save it`s a needlees every time to thinck about saving your process-very comfortable,
+on the other hand when i will use manualy i feel free to create a commit in the most logical time create him.
+
+    
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because this way more productive for collective job, every one can see changes in files  at once. I think that Git give more flexebility specially for developer teams.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    it is so easy to get the history of files, just write command git log, and i see the list of changed files.
+    command git diff  give me the good opportunity to compare different files.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    before start working i can to checkout some comits for bugs, and be  shure that my start point without bugs.
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    i want to try to get  an experience in a teamwork, and really want to check all features of git
+    
+ anyway i want to try everything! and more!!!!!
