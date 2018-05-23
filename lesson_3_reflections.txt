@@ -11,3 +11,5 @@ Describe the differences between forks, clones, and branches. When would you use
   Clone usually i use when i want to get all files from repo to my computer. 
   And fork i use when i want to have interesting me project in my website version of GitHub.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+  The big benefit to  having a copy of the last known state of the remote stored locally is a oppotunity to start  new develop to having latest data also if you have no internet accsess it is very important when you working in a team.
