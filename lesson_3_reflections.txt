@@ -19,3 +19,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
   If i create for example pull-request, the human look on my suggestion maybe not right now, but i need the really quick answer.  
    at this point i have not see any pros to use this style (without Git or GitHub) to collaborated. 
   Of course using Git and GitHub it`s a good time-saving.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+  Acctually i make changes in a separate branch when i want to improve (an in my opinion) some code, add new features, maybe a little experiment made, and of course if i want to share my outline i can do firm pull request. 
+  Working directly in a master branch give us understanding that we make changes in global project working in a separate branch arrow to us doing something else.
+
+  
