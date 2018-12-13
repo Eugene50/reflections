@@ -6,10 +6,10 @@ Why might you want to always pull changes manually rather than having Git automa
   i think that very important to choose manualy what kind of files i want to up to date on my local workspace, and sometimes  i don`t want that git has auto coonecting to my remote repo.
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
-  Fork is a like a clone of the website repo, in the same time clone is a copy of this repo to your own computer, and branches is a result of your new ideas for improvement some files in this repo.
+  Fork is like a clone of the website repo, in the same time clone is a copy of this repo to your own computer, and branches is a result of your new ideas for improvement some files in this repo.
   When i want to modify some  parts  of code or add new features to  the main file, i try to use new branche, what would not spoil the project.
   Clone usually i use when i want to get all files from repo to my computer. 
-  And fork i use when i want to have interesting me project in my website version of GitHub.
+  And fork i use when  want to have interesting me project in my website version of GitHub.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
   The big benefit to  having a copy of the last known state of the remote stored locally is a oppotunity to start  new develop to having latest data also if you have no internet accsess it is very important when you working in a team.
@@ -18,7 +18,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
   Earlier all programmers collaborated without Git and GitHub. If i have some suggestions for another people i just calling or mailing to them i sent the code and any files it will be right now, at this time.
   If i create for example pull-request, the human look on my suggestion maybe not right now, but i need the really quick answer.  
    at this point i have not see any pros to use this style (without Git or GitHub) to collaborated. 
-  Of course using Git and GitHub it`s a good time-saving.
+  Of course using Git and GitHub it`s a good time-saving during collaboration.
 
 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
   Acctually i make changes in a separate branch when i want to improve (an in my opinion) some code, add new features, maybe a little experiment made, and of course if i want to share my outline i can do firm pull request. 
